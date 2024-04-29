@@ -353,8 +353,8 @@
       render: {
         sprite: {
           texture: `assets/img/${size}.png`,
-          xScale: size / 3.75,
-          yScale: size / 3.75,
+          xScale: size / 3.15,
+          yScale: size / 3.15,
         },
       },
     });
